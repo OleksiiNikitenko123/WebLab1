@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-bank-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-bank-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-cloud-bank-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-cloud-bank-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-cloud-service-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-cloud-service-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/jmp-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/main-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/appmodules/main-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab_1/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
